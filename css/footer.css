@@ -1,0 +1,19 @@
+footer {
+  position: relative;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 20px 0;
+  z-index: 0;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
