@@ -11,10 +11,16 @@ header nav {
   }
 }
 
-footer nav {
-  a {
-    color: white;
-    font-family: "Quicksand", sans-serif;
+footer {
+  font-family: "Quicksand", sans-serif;
+
+  nav {
+    a {
+      color: white;
+    }
   }
 
+  address {
+    font-style: normal;
+  }
 }
