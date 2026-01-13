@@ -17,6 +17,6 @@ body {
   &:has(article:nth-of-type(3):target) nav a:nth-of-type(3),
   &:has(article:nth-of-type(4):target) nav a:nth-of-type(4),
   &:has(article:nth-of-type(5):target) nav a:nth-of-type(5) {
-    color: black;
+    color: rgb(54, 54, 54);
   }
 }
